@@ -1556,7 +1556,7 @@ figure {
 }
 
 .about-hero-section {
-  background-image: url('../images/aboutus.JPG');
+  background-image: url('../images/aboutus.jpg');
   background-position: 50%;
   background-size: cover;
   padding-top: 180px;
@@ -1565,7 +1565,7 @@ figure {
 
   &::before {
     content: "";
-    background-image: url('../images/aboutus.JPG');
+    background-image: url('../images/aboutus.jpg');
     background-position: inherit;
     background-size: inherit;
     position: absolute;
