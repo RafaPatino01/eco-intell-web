@@ -50,7 +50,7 @@ body {
   min-height: 100%;
   background-color: #fff;
   font-family: Arial, sans-serif;
-  font-size: 16.8px;
+  font-size: 14px;
   line-height: 20px;
   color: #333;
 }
@@ -176,7 +176,7 @@ html[data-w-dynpage] [data-w-cloak] {
   background-color: #fff !important;
   border-radius: 3px !important;
   padding: 6px 8px 6px 6px !important;
-  font-size: 14.399999999999999px !important;
+  font-size: 12px !important;
   opacity: 1 !important;
   line-height: 14px !important;
   text-decoration: none !important;
@@ -205,32 +205,32 @@ h6 {
   margin-bottom: 10px;
 }
 h1 {
-  font-size: 45.6px;
+  font-size: 38px;
   line-height: 44px;
   margin-top: 20px;
 }
 h2 {
-  font-size: 38.4px;
+  font-size: 32px;
   line-height: 36px;
   margin-top: 20px;
 }
 h3 {
-  font-size: 28.799999999999997px;
+  font-size: 24px;
   line-height: 30px;
   margin-top: 20px;
 }
 h4 {
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   line-height: 24px;
   margin-top: 10px;
 }
 h5 {
-  font-size: 16.8px;
+  font-size: 14px;
   line-height: 20px;
   margin-top: 10px;
 }
 h6 {
-  font-size: 14.399999999999999px;
+  font-size: 12px;
   line-height: 18px;
   margin-top: 10px;
 }
@@ -242,7 +242,7 @@ blockquote {
   margin: 0 0 10px 0;
   padding: 10px 20px;
   border-left: 5px solid #E2E2E2;
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   line-height: 22px;
 }
 figure {
@@ -329,7 +329,7 @@ label {
   height: 38px;
   padding: 8px 12px;
   margin-bottom: 10px;
-  font-size: 16.8px;
+  font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
   vertical-align: middle;
@@ -442,7 +442,7 @@ textarea.w-select {
 }
 .w-file-upload-uploading-btn {
   display: flex;
-  font-size: 16.8px;
+  font-size: 14px;
   font-weight: normal;
   cursor: pointer;
   margin: 0;
@@ -460,7 +460,7 @@ textarea.w-select {
   background-color: #fafafa;
 }
 .w-file-upload-file-name {
-  font-size: 16.8px;
+  font-size: 14px;
   font-weight: normal;
   display: block;
 }
@@ -475,7 +475,7 @@ textarea.w-select {
 }
 .w-icon-file-upload-remove {
   margin: auto;
-  font-size: 12.0px;
+  font-size: 10px;
 }
 .w-file-upload-error-msg {
   display: inline-block;
@@ -489,7 +489,7 @@ textarea.w-select {
 }
 .w-file-upload-label {
   display: inline-block;
-  font-size: 16.8px;
+  font-size: 14px;
   font-weight: normal;
   cursor: pointer;
   margin: 0;
@@ -802,7 +802,7 @@ textarea.w-select {
 }
 .w-widget-twitter-count-shim .w-widget-twitter-count-inner {
   position: relative;
-  font-size: 18.0px;
+  font-size: 15px;
   line-height: 12px;
   text-align: center;
   color: #999;
@@ -817,7 +817,7 @@ textarea.w-select {
   height: 28px;
 }
 .w-widget-twitter-count-shim.w--large .w-widget-twitter-count-inner {
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   line-height: 18px;
 }
 .w-widget-twitter-count-shim:not(.w--vertical) {
@@ -891,7 +891,7 @@ textarea.w-select {
   margin-left: -4px;
 }
 .w-widget-twitter-count-shim.w--vertical .w-widget-twitter-count-inner {
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   line-height: 22px;
 }
 .w-widget-twitter-count-shim.w--vertical.w--large {
@@ -1027,7 +1027,7 @@ textarea.w-select {
   cursor: pointer;
   overflow: hidden;
   color: white;
-  font-size: 48.0px;
+  font-size: 40px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-user-select: none;
@@ -1178,7 +1178,7 @@ textarea.w-select {
   left: 0;
   color: #fff;
   font-family: "Helvetica Neue", Helvetica, Ubuntu, "Segoe UI", Verdana, sans-serif;
-  font-size: 20.4px;
+  font-size: 17px;
   line-height: 1.2;
   font-weight: 300;
   text-align: center;
@@ -1510,7 +1510,7 @@ textarea.w-select {
 }
 .w-richtext figure div {
   /* fix incorrectly sized selection border in the data manager */
-  font-size: 0.0px;
+  font-size: 0px;
   color: transparent;
 }
 .w-richtext figure.w-richtext-figure-type-image,
@@ -1674,7 +1674,7 @@ textarea.w-select {
   position: relative;
   float: right;
   padding: 18px;
-  font-size: 28.799999999999997px;
+  font-size: 24px;
   display: none;
   cursor: pointer;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);

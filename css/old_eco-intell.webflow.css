@@ -12,14 +12,14 @@
   margin-left: 10px;
   margin-right: 10px;
   padding: 9px 20px;
-  font-size: 16.8px;
+  font-size: 14px;
   display: block;
 }
 
 body {
   color: #333;
   font-family: Satoshi, sans-serif;
-  font-size: 16.8px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 20px;
 }
@@ -29,7 +29,7 @@ h1 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 45.6px;
+  font-size: 38px;
   font-weight: 700;
   line-height: 44px;
 }
@@ -39,7 +39,7 @@ h2 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 38.4px;
+  font-size: 32px;
   font-weight: 700;
   line-height: 36px;
 }
@@ -49,7 +49,7 @@ h3 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 28.799999999999997px;
+  font-size: 24px;
   font-weight: 700;
   line-height: 30px;
 }
@@ -59,7 +59,7 @@ h4 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
 }
@@ -69,7 +69,7 @@ h5 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 16.8px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 20px;
 }
@@ -79,7 +79,7 @@ h6 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 14.399999999999999px;
+  font-size: 12px;
   font-weight: 700;
   line-height: 18px;
 }
@@ -102,7 +102,7 @@ blockquote {
   border-left: 5px solid #e2e2e2;
   margin-bottom: 10px;
   padding: 10px 20px;
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   line-height: 22px;
 }
 
@@ -156,7 +156,7 @@ figure {
   align-items: center;
   padding: 10px 30px;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
   line-height: 1.875rem;
   transition: all .3s;
@@ -296,7 +296,7 @@ figure {
 
 .h4 {
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 2.1rem;
+  font-size: 1.75rem;
   font-weight: 600;
   line-height: 2.813rem;
 }
@@ -335,7 +335,7 @@ figure {
 .h6 {
   color: #0c1c19;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.3499999999999999rem;
+  font-size: 1.125rem;
   font-weight: 600;
   line-height: 1.875rem;
 }
@@ -348,14 +348,14 @@ figure {
 }
 
 .paragraph-big {
-  font-size: 1.44rem;
+  font-size: 1.2rem;
   font-weight: 500;
   line-height: 2rem;
 }
 
 .h2 {
   letter-spacing: -.03rem;
-  font-size: 3.15rem;
+  font-size: 2.625rem;
   font-weight: 700;
   line-height: 4.125rem;
 }
@@ -373,7 +373,7 @@ figure {
 }
 
 .h3 {
-  font-size: 2.6999999999999997rem;
+  font-size: 2.25rem;
   font-weight: 700;
   line-height: 3.438rem;
 }
@@ -381,7 +381,7 @@ figure {
 .h1 {
   letter-spacing: -.038rem;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 4.05rem;
+  font-size: 3.375rem;
   font-weight: 700;
   line-height: 4.625rem;
 }
@@ -391,7 +391,7 @@ figure {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.7999999999999998rem;
+  font-size: 1.5rem;
   font-weight: 600;
   line-height: 2.125rem;
 }
@@ -434,7 +434,7 @@ figure {
 }
 
 .paragraph {
-  font-size: 1.2755999999999998rem;
+  font-size: 1.063rem;
   font-weight: 500;
   line-height: 1.875rem;
 }
@@ -457,7 +457,7 @@ figure {
 
 .license-link {
   color: #0c1c19;
-  font-size: 1.32rem;
+  font-size: 1.1rem;
   font-weight: 700;
   text-decoration: none;
 }
@@ -501,14 +501,14 @@ figure {
 .display {
   letter-spacing: -.038rem;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 4.8rem;
+  font-size: 4rem;
   font-weight: 700;
   line-height: 5.938rem;
 }
 
 .page-title {
   letter-spacing: -.038rem;
-  font-size: 5.55rem;
+  font-size: 4.625rem;
   font-weight: 700;
   line-height: 5.938rem;
 }
@@ -518,7 +518,7 @@ figure {
   letter-spacing: .088rem;
   text-transform: uppercase;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.05rem;
+  font-size: .875rem;
   font-weight: 700;
   line-height: 1.25rem;
 }
@@ -536,7 +536,7 @@ figure {
 .button {
   color: #0c1c19;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
   line-height: 1.875rem;
 }
@@ -544,7 +544,7 @@ figure {
 .blogger-name {
   color: #0c1c19;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.05rem;
+  font-size: .875rem;
   font-weight: 500;
   line-height: 1.875rem;
 }
@@ -554,7 +554,7 @@ figure {
   letter-spacing: .15rem;
   text-transform: uppercase;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 0.9755999999999999rem;
+  font-size: .813rem;
   font-weight: 500;
   line-height: 1.875rem;
 }
@@ -562,7 +562,7 @@ figure {
 .learn-more {
   color: #0c1c19;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 600;
   line-height: 1.875rem;
 }
@@ -570,7 +570,7 @@ figure {
 .footer-links {
   color: #0c1c19;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.1256rem;
+  font-size: .938rem;
   font-weight: 500;
   line-height: 2.188rem;
 }
@@ -607,7 +607,7 @@ figure {
   justify-content: flex-start;
   align-items: center;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 15.6px;
+  font-size: 13px;
   line-height: 28px;
   display: flex;
 }
@@ -672,7 +672,7 @@ figure {
   text-transform: uppercase;
   padding: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 0.9755999999999999rem;
+  font-size: .813rem;
   font-weight: 700;
   line-height: 1.25rem;
 }
@@ -1164,7 +1164,7 @@ figure {
 .value-reviewer-name {
   color: #fff;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 19.2px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 20px;
 }
@@ -1172,7 +1172,7 @@ figure {
 .value-reviewer-position {
   color: #fff;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 15.6px;
+  font-size: 13px;
   font-weight: 500;
   line-height: 16px;
 }
@@ -1254,7 +1254,7 @@ figure {
   justify-content: space-between;
   align-items: center;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 20.4px;
+  font-size: 17px;
   font-weight: 700;
   line-height: 30px;
   display: flex;
@@ -1312,7 +1312,7 @@ figure {
   grid-row-gap: 3px;
   color: #2e3938;
   flex-direction: column;
-  font-size: 16.8px;
+  font-size: 14px;
   font-weight: 500;
   line-height: 30px;
   display: flex;
@@ -1384,7 +1384,7 @@ figure {
   align-items: center;
   padding: 17px 30px;
   font-family: Satoshi, sans-serif;
-  font-size: 19.2px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 22px;
   transition: border-color linear;
@@ -1407,7 +1407,7 @@ figure {
 
 .footer-copyright {
   color: #95a09f;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 400;
   line-height: 20px;
 }
@@ -1427,7 +1427,7 @@ figure {
 
 .webflow-link {
   color: #95a09f;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 400;
   line-height: 20px;
   text-decoration: none;
@@ -1453,7 +1453,7 @@ figure {
 .footer-static-row {
   grid-column-gap: 37px;
   color: #95a09f;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 35px;
   text-decoration: none;
@@ -1480,7 +1480,7 @@ figure {
 
 .footer-link {
   color: #95a09f;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 35px;
   text-decoration: none;
@@ -1696,14 +1696,14 @@ figure {
   justify-content: center;
   align-items: center;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   font-weight: 600;
   line-height: 30px;
   display: flex;
 }
 
 .achievement-number {
-  font-size: 74.39999999999999px;
+  font-size: 62px;
   font-weight: 700;
   line-height: 95px;
 }
@@ -1804,7 +1804,7 @@ figure {
   width: 100%;
   grid-row-gap: 30px;
   flex-direction: column;
-  font-size: 20.4px;
+  font-size: 17px;
   font-weight: 500;
   line-height: 30px;
   display: flex;
@@ -1816,7 +1816,7 @@ figure {
   align-items: center;
   margin-bottom: -10px;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 21.599999999999998px;
+  font-size: 18px;
   font-weight: 600;
   line-height: 30px;
   display: flex;
@@ -2362,7 +2362,7 @@ figure {
   justify-content: center;
   align-items: center;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 19.2px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 30px;
   display: flex;
@@ -2453,7 +2453,7 @@ figure {
   padding-top: 10px;
   padding-bottom: 14px;
   padding-left: 45px;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 35px;
 }
@@ -2493,7 +2493,7 @@ figure {
   padding-top: 10px;
   padding-bottom: 14px;
   padding-left: 45px;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 35px;
 }
@@ -2530,7 +2530,7 @@ figure {
   color: #fff;
   align-items: flex-start;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 19.2px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 30px;
   display: flex;
@@ -2632,13 +2632,13 @@ figure {
   color: #0c1c19;
   margin-top: 40px;
   margin-bottom: 20px;
-  font-size: 43.199999999999996px;
+  font-size: 36px;
   line-height: 55px;
 }
 
 .blog-rich-text p {
   margin-bottom: 30px;
-  font-size: 20.4px;
+  font-size: 17px;
   line-height: 30px;
 }
 
@@ -2649,7 +2649,7 @@ figure {
   margin-top: 45px;
   margin-bottom: 80px;
   padding: 55px;
-  font-size: 26.4px;
+  font-size: 22px;
   font-weight: 500;
   line-height: 38px;
 }
@@ -2699,7 +2699,7 @@ figure {
 }
 
 .title-blog-post {
-  font-size: 19.2px;
+  font-size: 16px;
   padding-bottom: 3%;
 }
 
@@ -2860,7 +2860,7 @@ figure {
 .serving-industries-slider-nav {
   justify-content: center;
   align-items: center;
-  font-size: 14.399999999999999px;
+  font-size: 12px;
   line-height: 12px;
   display: flex;
 }
@@ -2935,7 +2935,7 @@ figure {
   grid-column-gap: 20px;
   color: #122258;
   padding-left: 10px;
-  font-size: 18.0px;
+  font-size: 15px;
   font-weight: 700;
   line-height: 26px;
   display: flex;
@@ -2967,7 +2967,7 @@ figure {
   text-transform: capitalize;
   padding: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 1.08rem;
+  font-size: .9rem;
   font-weight: 700;
   line-height: 1.3rem;
 }
@@ -2981,7 +2981,7 @@ figure {
   text-transform: uppercase;
   padding: 0;
   font-family: Plus Jakarta Sans, sans-serif;
-  font-size: 0.9755999999999999rem;
+  font-size: .813rem;
   font-weight: 700;
   line-height: 1.25rem;
 }
@@ -3100,12 +3100,12 @@ figure {
 
   .display {
     padding-top: 15%;
-    font-size: 3.5999999999999996rem;
+    font-size: 3rem;
     line-height: 3rem;
   }
 
   .page-title {
-    font-size: 4.8rem;
+    font-size: 4rem;
     line-height: 5.5rem;
   }
 
@@ -3495,7 +3495,7 @@ figure {
   }
 
   .achievement-number {
-    font-size: 66.0px;
+    font-size: 55px;
     line-height: 80px;
   }
 
@@ -3973,7 +3973,7 @@ figure {
   }
 
   .h4 {
-    font-size: 1.7999999999999998rem;
+    font-size: 1.5rem;
     line-height: 2.6rem;
   }
 
@@ -3994,12 +3994,12 @@ figure {
   }
 
   .paragraph-big {
-    font-size: 1.32rem;
+    font-size: 1.1rem;
     line-height: 1.9rem;
   }
 
   .h2 {
-    font-size: 2.88rem;
+    font-size: 2.4rem;
     line-height: 3.3rem;
   }
 
@@ -4008,17 +4008,17 @@ figure {
   }
 
   .h3 {
-    font-size: 2.28rem;
+    font-size: 1.9rem;
     line-height: 2.875rem;
   }
 
   .h1 {
-    font-size: 3.36rem;
+    font-size: 2.8rem;
     line-height: 3.8rem;
   }
 
   .h5 {
-    font-size: 1.68rem;
+    font-size: 1.4rem;
   }
 
   .color-palette-container {
@@ -4044,12 +4044,12 @@ figure {
   }
 
   .display {
-    font-size: 3.36rem;
+    font-size: 2.8rem;
     line-height: 3.6rem;
   }
 
   .page-title {
-    font-size: 3.5999999999999996rem;
+    font-size: 3rem;
     line-height: 3.9rem;
   }
 
@@ -4201,13 +4201,13 @@ figure {
   }
 
   .footer-copyright {
-    font-size: 16.8px;
+    font-size: 14px;
     line-height: 20px;
   }
 
   .webflow-link {
     margin-top: 20px;
-    font-size: 16.8px;
+    font-size: 14px;
     line-height: 20px;
   }
 
@@ -4257,12 +4257,12 @@ figure {
 
   .achievement-block {
     width: 100%;
-    font-size: 20.4px;
+    font-size: 17px;
     line-height: 28px;
   }
 
   .achievement-number {
-    font-size: 54.0px;
+    font-size: 45px;
     line-height: 60px;
   }
 
@@ -4455,7 +4455,7 @@ figure {
 
   .blog-rich-text h2 {
     margin-top: 20px;
-    font-size: 33.6px;
+    font-size: 28px;
     line-height: 44px;
   }
 
@@ -4463,7 +4463,7 @@ figure {
     margin-top: 30px;
     margin-bottom: 35px;
     padding: 20px;
-    font-size: 24.0px;
+    font-size: 20px;
     line-height: 36px;
   }
 
@@ -4507,7 +4507,7 @@ figure {
   }
 
   .serving-industries-slider-nav {
-    font-size: 12.0px;
+    font-size: 10px;
     line-height: 10px;
   }
 
@@ -4545,7 +4545,7 @@ figure {
   }
 
   .h2 {
-    font-size: 2.64rem;
+    font-size: 2.2rem;
     line-height: 3rem;
   }
 
@@ -4722,7 +4722,7 @@ figure {
   }
 
   .blog-rich-text h2 {
-    font-size: 26.4px;
+    font-size: 22px;
     line-height: 34px;
   }
 
